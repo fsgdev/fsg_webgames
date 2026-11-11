@@ -1,0 +1,5 @@
+These images are the games' own store art. They belong to the games' owners (CrazyGames and the
+games' developers and publishers), not to FSG, and FSG does not license them to you.
+
+Using them, like adding the games themselves, is your decision and your responsibility.
+See ../README.md before you add any of these games to your server.
